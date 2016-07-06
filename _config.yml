@@ -1,0 +1,28 @@
+name: Sound and Sunlight
+favicon: null
+layout_spectrum: 0.9331716294400394
+typography_spectrum: 0.2336455387994647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8324174913577735
+  lightness: 0.46561919222585857
+  saturation: 0.11762846331112087
+  rhythmicContrast: 0.7219778704456985
+purpose: []
